@@ -1,0 +1,12 @@
+Submission to bioinformatics 2019
+
+#Abstract
+#Research question
+#Raw data and analysis software
+#Runs done
+#Results
+#Further work
+#References
+#Appendices
+
+
